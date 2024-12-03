@@ -1,0 +1,6 @@
+robin_stocks
+pandas
+ta
+dot_env
+numpy
+pyotp
