@@ -8,6 +8,7 @@ __pycache__/
 
 secrets.env
 .env
+.vscode
 
 # Distribution / packaging
 .Python
